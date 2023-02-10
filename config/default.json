@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "secretKey": "RyanGosling",
+  "filePath": "D:\\cloud-disk\\server\\files",
+  "staticPath": "D:\\cloud-disk\\server\\static"
+}
